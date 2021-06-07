@@ -2,6 +2,7 @@ title: Programming Blog Adventure
 author: John Hayes
 theme:  minimal
 email: jdhayes.linux@gmail.com
+theme:  minima
 description: > # this means to ignore newlines until "baseurl:"
   This is my Programming Blog Adventure. I will blog about my adventures
   through programming, Docker, Python, Azure, Google Cloud and AWS.
