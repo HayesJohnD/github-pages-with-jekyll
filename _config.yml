@@ -1,5 +1,6 @@
 title: Programming Blog Adventure
 author: John Hayes
+theme:  minima
 email: jdhayes.linux@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is my Programming Blog Adventure. I will blog about my adventures
