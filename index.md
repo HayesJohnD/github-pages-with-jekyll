@@ -1,5 +1,4 @@
 ---
-title: "Hello, welcome to my blog"
+title: "Hello"
 ---
 
-I'm glad you are here. I plan to talk about the world of Python, Docker, Azure and perhaps more.
